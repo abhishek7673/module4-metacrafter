@@ -104,7 +104,7 @@ For any questions or issues related to this project, please feel free to open an
 
 ## Author
 
-Anurag Mishra  
+Abhishek Kumar
 Contact: [Email](mailto:abhishekugadm@gmail.com)
 
 ## License
